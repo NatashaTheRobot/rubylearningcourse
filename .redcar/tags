@@ -1,1 +1,33 @@
-1325228315
+1326925977
+Dog	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/dog_class.rb	class Dog
+Dog	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/dog_class2.rb	class Dog
+Rectangle	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/rectangle_class.rb	class Rectangle
+SENTINAL	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week3/exercise6.rb	SENTINAL =
+Test	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/class_exercises/week3/symbols.rb	class Test 
+a_year_remembered	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/deaf_grandma2.rb	def a_year_remembered
+area	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/rectangle_class.rb	  attr_reader :area, :perimeter
+bark	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/dog_class.rb	  def bark
+calculate_sum	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week3/exercise10.rb	def calculate_sum(collection)
+called	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/dog_class.rb	  Write a class called 
+chase_cat	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/dog_class.rb	  def chase_cat
+deaf_grandma	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week3/exercise6.rb	def deaf_grandma
+deaf_grandma	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/deaf_grandma2.rb	def deaf_grandma(sentinal = 'BYE')
+eat	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/dog_class.rb	  def eat
+even_or_odd	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week3/exercise11.rb	def even_or_odd(number)
+get_justification	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week2/string_processing_challenge.rb	def get_justification(string)
+get_output	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week3/fizzbuzz_ex.rb	def get_output(num)
+initialize	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/dog_class.rb	  def initialize(name)
+initialize	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/dog_class2.rb	  def initialize(name)
+initialize	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/rectangle_class.rb	  def initialize(length, width)
+leap_year?	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week2/leap_year.rb	def leap_year?(year)
+method	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week3/exercise1.rb	def method
+min_in_year	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week2/leap_year.rb	def min_in_year(year)
+mtdarry	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/class_exercises/week3/p018arrays.rb	def mtdarry  
+name	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/dog_class2.rb	  attr_accessor :name, :trick
+perimeter	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/rectangle_class.rb	  attr_reader :area, :perimeter
+prompt	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week2/prompt.rb	def prompt(prompt)
+reverse_string	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week3/exercise9.rb	def reverse_string(string)
+teach_trick	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/dog_class2.rb	  def teach_trick(trick_name, trick)
+test	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/class_exercises/week3/symbols.rb	  def test  
+trick	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week4/dog_class2.rb	  attr_accessor :name, :trick
+year	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week3/exercise6.rb	def year

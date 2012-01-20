@@ -1,4 +1,5 @@
-1325563180
+1325643055
+get_justification	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week2/string_processing_challenge.rb	def get_justification(string)
 leap_year?	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week2/leap_year.rb	def leap_year?(year)
 min_in_year	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week2/leap_year.rb	def min_in_year(year)
 mtdarry	/Users/nataliamurashev/Dropbox/LearningRuby/rubylearningcourse/homework/week2/playing_with_blocks.rb	def mtdarry
